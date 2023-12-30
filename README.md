@@ -22,12 +22,17 @@ cd this-project-location
 # Install dependencies
 npm install
 
+```
 
 #### Using yarn
 
+```bash
 # Install dependencies
 yarn install
+```
 
 #### Running the App
 
+```bash
 npx vite
+```
